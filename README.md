@@ -1,5 +1,7 @@
 # 👋 Hi there!
-Hi! I'm a high school sophomore, dreams of becoming a software developer.
+I want to make software for everyone. I study computer science and software at Gachon University.
+
+[Curriculum Vitae](http://go.hgseo.net/cv)
 
 ## What I'm interested nowadays
 ### Technologies & Frameworks
@@ -17,4 +19,4 @@ Hi! I'm a high school sophomore, dreams of becoming a software developer.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hyunbridge&count_private=true&show_icons=true)](https://github.com/hyunbridge)
 
 ## Have a question?
-You can reach me via email on my profile or [discussions tab](https://github.com/hyunbridge/hyunbridge/discussions) on [hyunbridge/hyunbridge](https://github.com/hyunbridge/hyunbridge) repo. **Feel free to contact me anytime!**
+You can reach me by filling out [this form](https://contact.hgseo.net/). **Feel free to contact me at any time!**
